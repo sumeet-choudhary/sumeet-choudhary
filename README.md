@@ -13,12 +13,13 @@
 - 💞️ I’m looking to collaborate on interesting project ideas.
 - 📫 Reach me at [email](mailto:sumeetchoudhary777@gmail.com)
 
-**languages and tools:**
+**Languages and tools:**
 
 <span><img src="https://img.icons8.com/color/48/0000000/python.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/flask.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/api.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/docker.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></span>
+
 
 <br/>
