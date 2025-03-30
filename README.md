@@ -5,8 +5,8 @@
 **Hi, I'm [Sumeet Choudhary](https://sumeet-choudhary.github.io/), a passionate developer, and a constant learner.** 
 
 
-<img align="right" alt="GIF" src="https://imgur.com/a/SvM771Y" width="500" height="320" />
-<a href="https://ibb.co/3yDrf1Vj"><img src="https://i.ibb.co/MDY28nKt/github-developer.gif" alt="github-developer" border="0"></a>
+<img align="right" alt="GIF" src="https://github.com/sumeet-choudhary/Banking_System/blob/main/github_developer.gif?raw=true" width="500" height="320" />
+
 
 
 - 👀 I’m interested in Backend Development.
