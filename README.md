@@ -5,7 +5,7 @@
 **Hi, I'm [Sumeet Choudhary](https://sumeet-choudhary.github.io/), a passionate developer, and a constant learner.** 
 
 
-  <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://imgur.com/a/SvM771Y" width="500" height="320" />
 
 
 - 👀 I’m interested in Backend Development.
