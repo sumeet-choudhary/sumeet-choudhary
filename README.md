@@ -21,7 +21,7 @@
 <span><img src="https://img.icons8.com/color/48/000000/api.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/docker.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/apache-kafka.png"/></span>
+<span><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48"/></span>
 
 **Featured project:** [spring-boot-microservices-project](https://github.com/sumeet-choudhary/spring-boot-microservices-project) — Eureka, Config Server, JWT gateway, Feign, Resilience4j, Kafka + Redis notifications.
 
