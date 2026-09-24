@@ -2,25 +2,28 @@
 
 <br />
 
-**Hi, I'm [Sumeet Choudhary](https://sumeet-choudhary.github.io/), a passionate developer, and a constant learner.** 
+**Hi, I'm [Sumeet Choudhary](https://sumeet-choudhary.github.io/), a Java Backend Developer working with Spring Boot and microservices.**
 
 
 <img align="right" alt="GIF" src="https://github.com/sumeet-choudhary/Banking_System/blob/main/github_developer.gif?raw=true" width="500" height="320" />
 
 
 
-- 👀 I’m interested in Backend Development.
-- 🌱 I’m currently learning Flask Framework. 
-- 💞️ I’m looking to collaborate on interesting project ideas.
+- 👀 I’m interested in Backend Development — Spring Boot, microservices, event-driven systems.
+- 🌱 I’m currently working with Spring Cloud (Gateway, Eureka, Config), Kafka, and Redis.
+- 💞️ I’m looking to collaborate on interesting backend project ideas.
 - 📫 Reach me at [email](mailto:sumeetchoudhary777@gmail.com)
 
 **Languages and tools:**
 
-<span><img src="https://img.icons8.com/color/48/0000000/python.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/flask.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/api.png"/></span>
 <span><img src="https://img.icons8.com/color/48/000000/docker.png"/></span>
-<span><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
+
+**Featured project:** [spring-boot-microservices-project](https://github.com/sumeet-choudhary/spring-boot-microservices-project) — Eureka, Config Server, JWT gateway, Feign, Resilience4j, Kafka + Redis notifications.
 
 
 <br/>
