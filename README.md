@@ -5,6 +5,8 @@
 **Hi, I'm [Sumeet Choudhary](https://sumeet-choudhary.github.io/), a Java Backend Developer working with Spring Boot and microservices.**
 
 
+<img align="right" alt="Developer at work" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=023E8A&center=true&vCenter=true&width=500&lines=Spring+Boot+Microservices;Kafka+%2B+Redis;Eureka+%2B+Gateway+%2B+JWT" alt="Typing SVG" />
 </p>
